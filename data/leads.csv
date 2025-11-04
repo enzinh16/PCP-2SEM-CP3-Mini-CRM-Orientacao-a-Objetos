@@ -1,0 +1,8 @@
+name,company,email,stage,lead_type,interesse,created
+Alexandre,FIAP,a@b.com,novo,,,2025-09-28
+João,Alura,b@c.com,novo,,,2025-10-05
+Maria,Alura,maria@alura.com.br,novo,Lead Quente (alto interesse),4,2025-10-24
+Marco,Microsoft,ab@hotmail.com,novo,Lead Frio (baixo interesse),2,2025-11-03
+Luigi,IBM,cd@hotmail.com.br,novo,Lead Frio (baixo interesse),3,2025-11-03
+Guilherme,Google,ef@gmail.com,novo,Lead Quente (alto interesse),5,2025-11-03
+Lucas,FIAP,abc@def.com,novo,Lead Frio (baixo interesse),1,2025-11-03

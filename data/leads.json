@@ -1,0 +1,61 @@
+[
+  {
+    "name": "Alexandre",
+    "company": "FIAP",
+    "email": "a@b.com",
+    "stage": "novo",
+    "created": "2025-09-28"
+  },
+  {
+    "name": "João",
+    "company": "Alura",
+    "email": "b@c.com",
+    "stage": "novo",
+    "created": "2025-10-05"
+  },
+  {
+    "name": "Maria",
+    "company": "Alura",
+    "email": "maria@alura.com.br",
+    "stage": "novo",
+    "created": "2025-10-24",
+    "lead_type": "Lead Quente (alto interesse)",
+    "interesse": 4
+  },
+  {
+    "name": "Marco",
+    "company": "Microsoft",
+    "email": "ab@hotmail.com",
+    "stage": "novo",
+    "created": "2025-11-03",
+    "lead_type": "Lead Frio (baixo interesse)",
+    "interesse": 2
+  },
+  {
+    "name": "Luigi",
+    "company": "IBM",
+    "email": "cd@hotmail.com.br",
+    "stage": "novo",
+    "created": "2025-11-03",
+    "lead_type": "Lead Frio (baixo interesse)",
+    "interesse": 3
+  },
+  {
+    "name": "Guilherme",
+    "company": "Google",
+    "email": "ef@gmail.com",
+    "stage": "novo",
+    "created": "2025-11-03",
+    "lead_type": "Lead Quente (alto interesse)",
+    "interesse": 5
+  },
+  {
+    "name": "Lucas",
+    "company": "FIAP",
+    "email": "abc@def.com",
+    "stage": "novo",
+    "created": "2025-11-03",
+    "lead_type": "Lead Frio (baixo interesse)",
+    "interesse": 1
+  }
+]
