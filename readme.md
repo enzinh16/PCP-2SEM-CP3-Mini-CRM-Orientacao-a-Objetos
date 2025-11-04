@@ -1,4 +1,4 @@
-# **CP2 2ºsem - SERS**
+# **CP3 2ºsem - PCP**
 
 # **Integrantes do grupo:**
 - Bruno Soares RM: 562235
